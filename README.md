@@ -1,5 +1,7 @@
 # DDos-tool
 cost: free 
+
+
 steps: open file and press 2 
 
 fhoto: https://imgur.com/a/i3BdbXc
@@ -11,4 +13,6 @@ port: 80  https://imgur.com/a/95jZ7G4
 
 Threads: 800
 
-and wait the attack has started  GG
+and wait the attack has started  GG 
+
+no me hago responsable de lo que hagan con ella!!
